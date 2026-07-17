@@ -48,7 +48,7 @@ I'm **Ebisike Innocent**, a Frontend Developer and UI/UX Designer. My work showc
       </tr>
       <tr>
         <td align="center" width="120">
-          <img src="https://raw.githubusercontent.com/Innocentjp/Innocentjp/main/html5-canvas-icon.png" width="50" alt="Canvas" /><br>
+          <img src="https://raw.githubusercontent.com/Innocentjp/Innocentjp/main/html5-canvas-icon.png" width="250" alt="Canvas" /><br>
           <sub>HTML5 Canvas</sub>
         </td>
         <td align="center" width="120">
