@@ -42,17 +42,17 @@ I'm **Ebisike Innocent**, a Frontend Developer and UI/UX Designer. My work showc
           <sub>Node.js</sub>
         </td>
         <td align="center" width="120">
-          <img src="web3-icon.png" width="40" alt="Web3" /><br>
+          <img src="https://raw.githubusercontent.com/Innocentjp/Innocentjp/main/web3-icon.png" width="40" alt="Web3" /><br>
           <sub>Web3.js</sub>
         </td>
       </tr>
       <tr>
         <td align="center" width="120">
-          <img src="html5-canvas-icon.png" width="40" alt="Canvas" /><br>
+          <img src="https://raw.githubusercontent.com/Innocentjp/Innocentjp/main/html5-canvas-icon.png" width="40" alt="Canvas" /><br>
           <sub>HTML5 Canvas</sub>
         </td>
         <td align="center" width="120">
-          <img src="phaser-icon.png" width="40" alt="Phaser" /><br>
+          <img src="https://raw.githubusercontent.com/Innocentjp/Innocentjp/main/phaser-icon.png" width="40" alt="Phaser" /><br>
           <sub>Phaser.js</sub>
         </td>
         <td align="center" width="120">
