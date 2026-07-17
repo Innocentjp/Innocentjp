@@ -48,6 +48,10 @@ I'm **Ebisike Innocent**, a Frontend Developer and UI/UX Designer. My work showc
       </tr>
       <tr>
         <td align="center" width="120">
+          <img src="https://raw.githubusercontent.com/Innocentjp/Innocentjp/main/html5-canvas-icon.png" width="55" alt="Canvas" /><br>
+          <sub>HTML5 Canvas</sub>
+        </td>
+        <td align="center" width="120">
           <img src="https://raw.githubusercontent.com/Innocentjp/Innocentjp/main/phaser-icon.png" width="55" alt="Phaser" /><br>
           <sub>Phaser.js</sub>
         </td>
@@ -59,7 +63,6 @@ I'm **Ebisike Innocent**, a Frontend Developer and UI/UX Designer. My work showc
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" /><br>
           <sub>Figma / PixelLab</sub>
         </td>
-        <td align="center" width="120"></td>
         <td align="center" width="120"></td>
       </tr>
     </tbody>
