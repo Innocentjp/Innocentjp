@@ -48,7 +48,7 @@ I'm **Ebisike Innocent**, a Frontend Developer and UI/UX Designer. My work showc
       </tr>
       <tr>
         <td align="center" width="120">
-          <img src="https://raw.githubusercontent.com/Innocentjp/Innocentjp/main/html5-canvas-icon.png" width="50" alt="Canvas" /><br>
+          <img src="https://raw.githubusercontent.com/Innocentjp/Innocentjp/main/html5-canvas-icon.png" width="200" alt="Canvas" /><br>
           <sub>HTML5 Canvas</sub>
         </td>
         <td align="center" width="120">
@@ -68,56 +68,4 @@ I'm **Ebisike Innocent**, a Frontend Developer and UI/UX Designer. My work showc
   </table>
 </div>
 
----
 
-### <img src="https://api.iconify.design/lucide:rocket.svg?color=%2358a6ff" width="26" height="26" align="absmiddle"> Featured Projects
-
-<details>
-  <summary><b><a href="https://enugu-waterwatch.netlify.app">Enugu WaterWatch (EWAW)</a></b></summary>
-  <p>A digital utility platform designed for Enugu State to track public water infrastructure in real-time, report faulty boreholes, and coordinate Smart Tanker Pooling securely. <br><i>(Built with: React.js, JavaScript (ES6+), Leaflet.js, CartoDB Voyager, Tailwind CSS)</i></p>
-</details>
-
-<details>
-  <summary><b><a href="https://cppaccreditation.co.uk/">CPP Accreditation Portal</a></b></summary>
-  <p>A fully functional membership and accreditation website built for a professional project management organization, featuring secure routing and responsive data layouts. <br><i>(Built with: HTML5, CSS3, JavaScript)</i></p>
-</details>
-
-<details>
-  <summary><b><a href="https://abck-fashion-brand.netlify.app/">ABCK Fashion Landing Page</a></b></summary>
-  <p>A visually engaging e-commerce platform for a modern fashion brand. Features a comprehensive administrative dashboard to manage product inventory and track store updates effectively. <br><i>(Built with: HTML5, CSS3, JavaScript)</i></p>
-</details>
-
-<details>
-  <summary><b><a href="https://physiotherapy-site.netlify.app/">Clinical Physiotherapy Site</a></b></summary>
-  <p>A professional, user-friendly clinical website focused on physical therapy services, patient resources, and modern UI/UX design principles. <br><i>(Built with: Figma, HTML5, CSS3)</i></p>
-</details>
-
-<details>
-  <summary><b><a href="https://dr-ayodele-portfolio.netlify.app/">IAPM&D</a></b></summary>
-  <p>An executive digital portfolio designed for the founder of the International Academy for Project Management & Development (IAPM&D), showcasing their leadership, professional milestones, and industry expertise. <br><i>(Built with: HTML5, CSS3, JavaScript)</i></p>
-</details>
-
-<details>
-  <summary><b><a href="https://el-profile.netlify.app/">EL Profile / Digital Resume</a></b></summary>
-  <p>A sleek, interactive digital profile and resume application designed to beautifully showcase professional milestones and creative design portfolios. <br><i>(Built with: React.js, CSS3)</i></p>
-</details>
-
-<details>
-  <summary><b><a href="https://plane-game-by-innocentjp.netlify.app/">Aero Glide</a></b></summary>
-  <p>A high-fidelity, endless arcade flyer featuring dynamic difficulty scaling, custom physics, and responsive mobile controls. <br><i>(Built with: Phaser 3, HTML5, CSS3, JavaScript, Native Web Audio)</i></p>
-</details>
-
-<details>
-  <summary><b><a href="https://snake-game-by-innocentjp.netlify.app/">Retro Snake Clone</a></b></summary>
-  <p>A responsive web-based recreation of the classic Snake game, emphasizing core programming logic, array manipulation, and mobile responsiveness. <br><i>(Built with: Phaser.js, HTML5 Canvas, JavaScript)</i></p>
-</details>
-
-<details>
-  <summary><b><a href="https://web3-rialo-quiz.netlify.app/">Web3 Rialo Quiz dApp</a></b></summary>
-  <p>A decentralized quiz application integrating blockchain concepts, designed to interact with Web3 wallets and test advanced cryptocurrency knowledge. <br><i>(Built with: Web3.js, React.js, Node.js)</i></p>
-</details>
-
-<details>
-  <summary><b><a href="https://physiology-quiz.netlify.app/">Physiology Academic Quiz</a></b></summary>
-  <p>An interactive educational platform tailored for medical rehabilitation students to rigorously test their knowledge of vital signs and exercise physiology. <br><i>(Built with: JavaScript, HTML5, CSS3)</i></p>
-</details>
