@@ -91,5 +91,7 @@ I'm **Ebisike Innocent**, a Frontend Engineer and Product Designer based in Enug
 ### <img src="https://unpkg.com/lucide-static@latest/icons/bar-chart.svg" width="24" /> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Innocentjp&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/Innocentjp">
+    <img src="https://github-readme-stats.vercel.app/api?username=Innocentjp&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
 </div>
